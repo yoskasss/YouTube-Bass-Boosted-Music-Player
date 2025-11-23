@@ -20,6 +20,7 @@ YouTube'dan müzik indirip **bass boost** uygulayan, **şarkı sözlerini senkro
 ## 🎬 Demo
 [Lil Zey  DELIKANSIZ_boosted.mp3](https://github.com/user-attachments/files/23695306/Lil.Zey.DELIKANSIZ_boosted.mp3)
 
+https://www.youtube.com/watch?v=Lh-TKUS0Pas
 
 
 ### MP4 Çıktısı Özellikleri:
